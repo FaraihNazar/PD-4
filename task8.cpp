@@ -27,6 +27,6 @@ difference=-difference;
 int hours=difference/60;
 int minutes=difference%60;
 cout<<"Tom will run away"<<endl;
-cout<< hours<<" hours and "<< minutes<<" minutes for play";
+cout<< hours<<" hours and "<< minutes<<" minutes for play"<<endl;
 }
 }
